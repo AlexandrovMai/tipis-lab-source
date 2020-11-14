@@ -1,5 +1,5 @@
 ------LOGGER CREATED------
-Creation time: 1605373302.0524237
+Creation time: 1605387473.7970147
 --------------------------
 Preparing for count: A1 R A4
 A1 R A4 parameters:
@@ -102,6 +102,6 @@ At time: 88.31000000000827 s [altitude: 2577.4336062645393 m, speed: -0.00478945
 IS in R is:False
 Graph saved to file result/graph/A1_R_A4.jpg
 ------LOGGER DESTROYING------
-Del time: 1605373302.7914739
-Exec time: 0.7390501499176025
+Del time: 1605387475.0308697
+Exec time: 1.2338550090789795
 -----------------------------

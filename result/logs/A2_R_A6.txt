@@ -1,5 +1,5 @@
 ------LOGGER CREATED------
-Creation time: 1605373310.1112924
+Creation time: 1605387485.6124058
 --------------------------
 Preparing for count: A2 R A6
 A2 R A6 parameters:
@@ -88,6 +88,6 @@ At time: 74.21000000000106 s [altitude: 3000.3985174250765 m, speed: 132.3818610
 IS in R is:True
 Graph saved to file result/graph/A2_R_A6.jpg
 ------LOGGER DESTROYING------
-Del time: 1605373310.907319
-Exec time: 0.7960267066955566
+Del time: 1605387486.5763514
+Exec time: 0.9639456272125244
 -----------------------------

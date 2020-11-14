@@ -1,0 +1,19 @@
+------LOGGER CREATED------
+Creation time: 1605373349.662393
+--------------------------
+Preparing for count: A8 R A6
+A8 R A6 parameters:
++---------+-------+-------+--------+---------+--------+---------+---------+
+|   #Obj  | m(st) | m(ch) | m(bal) | ct(bal) | V(bal) | ro(bal) | h(crit) |
++---------+-------+-------+--------+---------+--------+---------+---------+
+| A8 R A6 |  50.0 |  3.0  | 0.0037 |  720.0  | 0.072  |   0.09  |  6200.0 |
++---------+-------+-------+--------+---------+--------+---------+---------+
+Creating object and preparing for sim
+ITERATION PROCESS STOPPED WITH FOLOWING PARAMS
+At time: 0.01 s [altitude: -6.90233119397444e-05 m, speed: -0.01380466238794888 m/s] acceleration: -1.3804661711934472 m/s2
+IS in R is:False
+Graph saved to file result/graph/A8_R_A6.jpg
+------LOGGER DESTROYING------
+Del time: 1605373350.2661996
+Exec time: 0.6038064956665039
+-----------------------------

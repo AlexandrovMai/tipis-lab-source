@@ -1,0 +1,19 @@
+------LOGGER CREATED------
+Creation time: 1605373306.6373382
+--------------------------
+Preparing for count: A2 R A2
+A2 R A2 parameters:
++---------+-------+-------+--------+---------+--------+---------+---------+
+|   #Obj  | m(st) | m(ch) | m(bal) | ct(bal) | V(bal) | ro(bal) | h(crit) |
++---------+-------+-------+--------+---------+--------+---------+---------+
+| A2 R A2 |  91.0 |  1.3  | 0.001  |  625.0  | 0.176  | 0.17846 |  6500.0 |
++---------+-------+-------+--------+---------+--------+---------+---------+
+Creating object and preparing for sim
+ITERATION PROCESS STOPPED WITH FOLOWING PARAMS
+At time: 0.01 s [altitude: -1.113691189065662e-05 m, speed: -0.002227382378131324 m/s] acceleration: -0.2227382254075838 m/s2
+IS in R is:False
+Graph saved to file result/graph/A2_R_A2.jpg
+------LOGGER DESTROYING------
+Del time: 1605373307.36237
+Exec time: 0.725031852722168
+-----------------------------

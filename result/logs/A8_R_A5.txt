@@ -1,5 +1,5 @@
 ------LOGGER CREATED------
-Creation time: 1605387538.1696384
+Creation time: 1605393690.7097886
 --------------------------
 Preparing for count: A8 R A5
 A8 R A5 parameters:
@@ -105,6 +105,6 @@ At time: 91.35000000000983 s [altitude: 3000.28619853674 m, speed: 98.4121942103
 IS in R is:True
 Graph saved to file result/graph/A8_R_A5.jpg
 ------LOGGER DESTROYING------
-Del time: 1605387539.3595178
-Exec time: 1.1898794174194336
+Del time: 1605393691.4958367
+Exec time: 0.786048173904419
 -----------------------------

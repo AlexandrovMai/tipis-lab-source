@@ -34,7 +34,7 @@ class RCounter:
         self.logger.write_arr_to_file([ob_logger, ])
         self.logger.write_str("Creating object and preparing for sim")
 
-        is_in_r = self._calc(ob_logger)
+        is_in_r, cur_p = self._calc(ob_logger)
 
         self.logger.write_str("IS in R is:" + str(is_in_r))
         if self.graph_file:
@@ -48,7 +48,7 @@ class RCounter:
                               )
             self.logger.write_str("Graph saved to file " + self.graph_file)
         self.logger.close()
-        return is_in_r
+        return is_in_r, cur_p
 
     def _calc(self, ob_s: ObjectWithConstants):
         fo = FlyingObject(ob_s.create_object_emulator())
@@ -76,4 +76,4 @@ class RCounter:
         if cur_p.h >= 3000:
             is_in_r = True
 
-        return is_in_r
+        return is_in_r, cur_p

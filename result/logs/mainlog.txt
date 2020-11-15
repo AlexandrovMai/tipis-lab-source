@@ -1,162 +1,162 @@
 ------LOGGER CREATED------
-Creation time: 1605393630.7592092
+Creation time: 1605403741.3287127
 --------------------------
 Reading table.csv
 Parsed data from file:
-+------+-------+-------+---------+---------+--------+---------+---------+
-| #Obj | m(st) | m(ch) |  m(bal) | ct(bal) | V(bal) | ro(bal) | h(crit) |
-+------+-------+-------+---------+---------+--------+---------+---------+
-|  A1  |  62.0 |  2.0  |  0.003  |  345.0  |  0.45  | 0.17846 |  3000.0 |
-|  A2  |  75.0 |  1.3  |  0.001  |  600.0  | 0.186  | 0.17846 |  6000.0 |
-|  A3  |  85.0 |  2.3  |  0.0025 |  320.0  |  0.32  |   0.09  |  4100.0 |
-|  A4  |  72.0 |  1.0  |  0.0014 |  600.0  |  0.2   |   0.09  |  4000.0 |
-|  A5  |  60.0 |  0.6  |  0.0032 |  320.0  |  0.5   | 0.17846 |  6000.0 |
-|  A6  |  50.0 |  2.1  |  0.0005 |  720.0  |  0.12  |   0.09  |  5500.0 |
-|  A7  |  68.0 |  2.2  | 0.00067 |  1000.0 | 0.135  | 0.17846 |  3500.0 |
-|  A8  | 112.0 |  3.0  |  0.0009 |  500.0  |  0.2   |   0.09  |  6200.0 |
-+------+-------+-------+---------+---------+--------+---------+---------+
++------+-------+-------+--------+---------+--------+---------+---------+
+| #Obj | m(st) | m(ch) | m(bal) | ct(bal) | V(bal) | ro(bal) | h(crit) |
++------+-------+-------+--------+---------+--------+---------+---------+
+|  A1  |  62.0 |  2.0  |  0.03  |  345.0  |  0.45  | 0.17846 |  4300.0 |
+|  A2  |  75.0 |  1.3  | 0.005  |  640.0  | 0.186  | 0.17846 |  6000.0 |
+|  A3  |  85.0 |  2.3  | 0.012  |  420.0  |  0.32  |   0.09  |  4100.0 |
+|  A4  |  72.0 |  1.0  | 0.009  |  600.0  |  0.2   |   0.09  |  4000.0 |
+|  A5  |  60.0 |  0.6  | 0.032  |  220.0  |  0.5   | 0.17846 | 10000.0 |
+|  A6  |  50.0 |  2.1  | 0.0032 |  720.0  | 0.134  |   0.09  |  5500.0 |
+|  A7  |  68.0 |  2.2  | 0.005  |  800.0  | 0.186  | 0.17846 |  3500.0 |
+|  A8  |  89.0 |  3.0  | 0.006  |  500.0  |  0.2   |   0.09  |  6200.0 |
++------+-------+-------+--------+---------+--------+---------+---------+
 Counting A1 R A1
---------- result: True
+--[last_h: 3000.4374083670905]----- result: True
 Counting A1 R A2
---------- result: False
+--[last_h: 3000.1038168721343]----- result: True
 Counting A1 R A3
---------- result: False
+--[last_h: 2814.7144508769948]----- result: False
 Counting A1 R A4
---------- result: False
+--[last_h: 3000.0482729303344]----- result: True
 Counting A1 R A5
---------- result: True
+--[last_h: 3000.2159851609517]----- result: True
 Counting A1 R A6
---------- result: True
+--[last_h: 3000.2183485540168]----- result: True
 Counting A1 R A7
---------- result: False
+--[last_h: 3000.140331203688]----- result: True
 Counting A1 R A8
---------- result: False
+--[last_h: 2501.4634638133334]----- result: False
 Counting A2 R A1
---------- result: True
+--[last_h: 3000.2642886323256]----- result: True
 Counting A2 R A2
---------- result: False
+--[last_h: 2912.6694300328218]----- result: False
 Counting A2 R A3
---------- result: False
+--[last_h: 1257.5643173604697]----- result: False
 Counting A2 R A4
---------- result: True
+--[last_h: 3000.0896564560776]----- result: True
 Counting A2 R A5
---------- result: True
+--[last_h: 3000.1189702146257]----- result: True
 Counting A2 R A6
---------- result: True
+--[last_h: 3000.2616961658628]----- result: True
 Counting A2 R A7
---------- result: True
+--[last_h: 3000.090814722848]----- result: True
 Counting A2 R A8
---------- result: False
+--[last_h: 636.2720028930137]----- result: False
 Counting A3 R A1
---------- result: True
+--[last_h: 3000.583553903115]----- result: True
 Counting A3 R A2
---------- result: False
+--[last_h: 3000.3749855515125]----- result: True
 Counting A3 R A3
---------- result: False
+--[last_h: 2871.4166749113283]----- result: False
 Counting A3 R A4
---------- result: False
+--[last_h: 3000.0679044603503]----- result: True
 Counting A3 R A5
---------- result: True
+--[last_h: 3000.352155026372]----- result: True
 Counting A3 R A6
---------- result: True
+--[last_h: 3000.110754901119]----- result: True
 Counting A3 R A7
---------- result: False
+--[last_h: 3000.1688873132603]----- result: True
 Counting A3 R A8
---------- result: False
+--[last_h: 2552.800650428579]----- result: False
 Counting A4 R A1
---------- result: True
+--[last_h: 3000.001056682727]----- result: True
 Counting A4 R A2
---------- result: True
+--[last_h: 2865.0850997724856]----- result: False
 Counting A4 R A3
---------- result: False
+--[last_h: 1957.8933933702667]----- result: False
 Counting A4 R A4
---------- result: True
+--[last_h: 3000.071476918043]----- result: True
 Counting A4 R A5
---------- result: True
+--[last_h: 3000.080494425436]----- result: True
 Counting A4 R A6
---------- result: True
+--[last_h: 3000.414226779047]----- result: True
 Counting A4 R A7
---------- result: True
+--[last_h: 3000.0635882734377]----- result: True
 Counting A4 R A8
---------- result: False
+--[last_h: 1546.2340884900766]----- result: False
 Counting A5 R A1
---------- result: True
+--[last_h: 3000.143409041126]----- result: True
 Counting A5 R A2
---------- result: True
+--[last_h: 1269.7632632566956]----- result: False
 Counting A5 R A3
---------- result: True
+--[last_h: -9.920044072090041e-06]----- result: False
 Counting A5 R A4
---------- result: True
+--[last_h: 1797.941624586923]----- result: False
 Counting A5 R A5
---------- result: True
+--[last_h: 3000.164181852703]----- result: True
 Counting A5 R A6
---------- result: True
+--[last_h: 3000.364650416551]----- result: True
 Counting A5 R A7
---------- result: True
+--[last_h: 2536.8891697126714]----- result: False
 Counting A5 R A8
---------- result: False
+--[last_h: -2.6453198831002836e-05]----- result: False
 Counting A6 R A1
---------- result: False
+--[last_h: 3000.0578566286686]----- result: True
 Counting A6 R A2
---------- result: False
+--[last_h: 1576.2783499079994]----- result: False
 Counting A6 R A3
---------- result: False
+--[last_h: -8.037048666900404e-06]----- result: False
 Counting A6 R A4
---------- result: False
+--[last_h: 2165.268138823177]----- result: False
 Counting A6 R A5
---------- result: True
+--[last_h: 3000.2669077057562]----- result: True
 Counting A6 R A6
---------- result: True
+--[last_h: 3000.6185490267217]----- result: True
 Counting A6 R A7
---------- result: False
+--[last_h: 2921.2701462371224]----- result: False
 Counting A6 R A8
---------- result: False
+--[last_h: -2.6941003377504648e-05]----- result: False
 Counting A7 R A1
---------- result: True
+--[last_h: 3000.161010088993]----- result: True
 Counting A7 R A2
---------- result: False
+--[last_h: 2768.0884611480597]----- result: False
 Counting A7 R A3
---------- result: False
+--[last_h: 2131.2079101473028]----- result: False
 Counting A7 R A4
---------- result: False
+--[last_h: 2956.0909239909415]----- result: False
 Counting A7 R A5
---------- result: True
+--[last_h: 3000.115789022747]----- result: True
 Counting A7 R A6
---------- result: True
+--[last_h: 3000.6513271184485]----- result: True
 Counting A7 R A7
---------- result: False
+--[last_h: 3000.0473645603975]----- result: True
 Counting A7 R A8
---------- result: False
+--[last_h: 1864.4472391927188]----- result: False
 Counting A8 R A1
---------- result: True
+--[last_h: 3000.2401485844653]----- result: True
 Counting A8 R A2
---------- result: False
+--[last_h: 1843.900661857209]----- result: False
 Counting A8 R A3
---------- result: False
+--[last_h: 0.0]----- result: False
 Counting A8 R A4
---------- result: False
+--[last_h: 2444.510243172089]----- result: False
 Counting A8 R A5
---------- result: True
+--[last_h: 3000.3217086287837]----- result: True
 Counting A8 R A6
---------- result: True
+--[last_h: 3000.4237302804027]----- result: True
 Counting A8 R A7
---------- result: True
+--[last_h: 3000.1216088510964]----- result: True
 Counting A8 R A8
---------- result: False
+--[last_h: -1.8865384615384605e-05]----- result: False
 R Matrix:
 +----+----+----+----+----+----+----+----+----+
 | #  | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 |
 +----+----+----+----+----+----+----+----+----+
-| A1 | 1  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
+| A1 | 1  | 1  | 0  | 1  | 1  | 1  | 1  | 0  |
 | A2 | 1  | 0  | 0  | 1  | 1  | 1  | 1  | 0  |
-| A3 | 1  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
-| A4 | 1  | 1  | 0  | 1  | 1  | 1  | 1  | 0  |
-| A5 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 0  |
-| A6 | 0  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
-| A7 | 1  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
+| A3 | 1  | 1  | 0  | 1  | 1  | 1  | 1  | 0  |
+| A4 | 1  | 0  | 0  | 1  | 1  | 1  | 1  | 0  |
+| A5 | 1  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
+| A6 | 1  | 0  | 0  | 0  | 1  | 1  | 0  | 0  |
+| A7 | 1  | 0  | 0  | 0  | 1  | 1  | 1  | 0  |
 | A8 | 1  | 0  | 0  | 0  | 1  | 1  | 1  | 0  |
 +----+----+----+----+----+----+----+----+----+
 ------LOGGER DESTROYING------
-Del time: 1605393693.9229014
-Exec time: 63.163692235946655
+Del time: 1605403788.5460396
+Exec time: 47.21732687950134
 -----------------------------

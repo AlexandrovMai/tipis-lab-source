@@ -18,8 +18,8 @@ if __name__ == '__main__':
             fl.write_str("Counting "+ob.ob_name+" R "+obn.ob_name)
             rc = RCounter("result/logs/"+ob.ob_name+"_R_"+obn.ob_name+".txt",
                           "result/graph/"+ob.ob_name+"_R_"+obn.ob_name+".jpg")
-            rs = rc.calc(ob, obn)
-            fl.write_str("--------- result: " + str(rs))
+            rs, cur_p = rc.calc(ob, obn)
+            fl.write_str("--[last_h: " + str(cur_p.h) + "]----- result: " + str(rs))
             am.append(int(rs))
         r_matrix.append(am)
 
